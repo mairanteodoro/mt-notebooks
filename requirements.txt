@@ -1,0 +1,5 @@
+astropy
+reproject
+numpy
+matplotlib
+python-dotenv
