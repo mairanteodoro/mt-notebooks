@@ -3,3 +3,4 @@ reproject
 numpy
 matplotlib
 python-dotenv
+regions
